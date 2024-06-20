@@ -7,3 +7,5 @@ A compilation of 5 exercises testing image libraries, operations and concepts:
 3. Generalized image blender function
 4. Image rotation function
 5. 2D Gaussian image generator
+
+6. *matplotlib, numpy, IPython.display used*
